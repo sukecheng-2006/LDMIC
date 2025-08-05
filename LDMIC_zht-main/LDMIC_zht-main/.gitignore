@@ -1,0 +1,10 @@
+checkpoints/
+datasets/
+output/
+__pycache__/
+wandb/
+optunaresult/
+db.sqlite3
+.vscode/sftp.json
+*.db
+reorder/
